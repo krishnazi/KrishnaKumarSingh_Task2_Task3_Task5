@@ -5,7 +5,7 @@ Generates a strong, random password based on user-defined criteria:
 desired length and character types to include (uppercase, lowercase,
 numbers, symbols).
 
-Author: <your name here>
+Author: <Krishna Kuamr Singh>
 """
 
 import random
