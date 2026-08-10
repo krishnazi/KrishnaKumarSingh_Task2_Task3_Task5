@@ -5,7 +5,7 @@ Listens for incoming client connections and relays messages between
 connected clients in real time. Supports any number of clients, though
 this task targets two-user chat on localhost.
 
-Author: <your name here>
+Author: <Krishna Kumar Singh>
 """
 
 import socket
