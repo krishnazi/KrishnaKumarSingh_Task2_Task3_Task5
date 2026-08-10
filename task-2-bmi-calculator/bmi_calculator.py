@@ -5,7 +5,7 @@ Prompts the user for weight (kg) and height (m), calculates their
 Body Mass Index, and classifies the result into a standard health
 category.
 
-Author: <your name here>
+Author: <Krishna Kumar Singh>
 """
 
 
