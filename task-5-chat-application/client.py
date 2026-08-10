@@ -8,7 +8,7 @@ have a friend on the same network connect to your IP.
 
 Type /quit or /exit to leave the chat.
 
-Author: <your name here>
+Author: <Krishna Kumar Singh>
 """
 
 import socket
